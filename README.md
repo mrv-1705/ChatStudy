@@ -75,8 +75,8 @@ Client-server chat applications are foundational to real-time communication over
 
 ## PROGRAM
 ```
-NAME : Pranavesh Saikumar
-REGISTER NUMBER : 212223040149
+NAME : KURAPATI VISHNU VARDHAN REDDY
+REGISTER NUMBER : 212223040103
 ```
 CLIENT:
 ```
